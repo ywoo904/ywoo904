@@ -16,4 +16,4 @@ Plan(Current):
 - 👯 I’m looking to collaborate on Investment analysis on various financial market products. 
 
 Contact: 
--ywoo904@gmail.com
+ywoo904@gmail.com
