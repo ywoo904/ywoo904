@@ -7,7 +7,7 @@ Schools:
 -Undergraduate_University of Michigan- Ann Arbor(Economics, Class of 2019) 
 
 Careers: 
--(EX)_Kiwoom Securities_Global Securities Department_Manager/Operater for outbound securities 
+-(EX)_Kiwoom Securities_Global Securities Department_Manager/Operater for outbound securities <br>
 -(EX)_Moore Stephens International Limited_Summer Corporate Account Analyst_Assistant for corporate accounting   
 
 Plan(Current): 
