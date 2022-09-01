@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 Schools: 
 -Undergraduate_University of Michigan- Ann Arbor(Economics, Class of 2019) 
 
-Careers: 
+Careers:<br> 
 -Current_Georgia Institute of Technology-Masters in Data Analytics <br> 
-Previous:
+Previous:<br>
 -Kiwoom Securities_Global Securities Department_Manager/Operater for outbound securities <br>
 -Moore Stephens International Limited_Summer Corporate Account Analyst_Assistant for corporate accounting   
 
