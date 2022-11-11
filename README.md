@@ -4,8 +4,8 @@ My name is Young Woo and I am always eager to learn Data Anayltics and knowledge
 Here are some ideas to get you started:
 
 Educations: <br>
--Current_Georgia Institute of Technology-Masters in Data Analytics <br> 
--Undergraduate_University of Michigan- Ann Arbor(Economics, Class of 2019) <br>
+-(Current) Georgia Institute of Technology-Masters in Data Analytics <br> 
+-(Undergraduate) University of Michigan- Ann Arbor(Economics, Class of 2019) <br>
 
 Careers: <br> 
 -(~2021) Kiwoom Securities_Global Securities Department_Manager/Operater for outbound securities <br>
