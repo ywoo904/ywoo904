@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Young Woo and I am always eager to learn Data Anayltics and knowledges associated with. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you acquanited with me!:
 
 Educations: <br>
 -(Current) Georgia Institute of Technology-Masters in Data Analytics <br> 
